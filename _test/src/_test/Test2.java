@@ -6,5 +6,6 @@ public class Test2 {
 		int b=2;
 		int d= 4;
 		System.out.println(a+b);
+		System.out.println(a);
 	}
 }
